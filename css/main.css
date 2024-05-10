@@ -1,0 +1,20 @@
+@import "/css/setting.css";
+/* @import "./mobile/mobile.css" only screen and (min-width: 0px);
+@import "./desktop/Home/desktop.css" only screen and (min-width: 1000px);
+@import "./desktop/blog/blog-link.css" only screen and (min-width: 1000px);
+@import "./desktop/contactus/contactus-link.css" only screen and (min-width: 1000px);
+@import "./desktop/privacy/privacy-link.css" only screen and (min-width: 1000px);
+@import "./desktop/readblog/readblog-link.css" only screen and (min-width: 1000px);
+@import "./mobile/pricing/pricing-link.css" only screen and (min-width: 1000px);
+@import "./desktop/features/features-link.css" only screen and (min-width: 1000px); */
+
+
+@import "./mobile/mobile.css" ;
+@import "./desktop/Home/desktop.css";
+@import "./desktop/blog/blog-link.css";
+@import "./desktop/contactus/contactus-link.css";
+@import "./desktop/privacy/privacy-link.css";
+@import "./desktop/readblog/readblog-link.css";
+/* @import "./mobile/pricing/pricing-link.css"; */
+@import "./desktop/features/features-link.css";
+@import "./mobile/pricing/pricing-link.css";
